@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184152720677",
+    "project_id": "mitratalk-79c13",
+    "storage_bucket": "mitratalk-79c13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184152720677:android:75da650f957931177186cc",
+        "android_client_info": {
+          "package_name": "com.example.bolo_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184152720677-5uf6nvsf60je0hn45fnb6r8i2hepekov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bolo_chat",
+            "certificate_hash": "fc072dc2552c282f1124d38b0788aa975ce88e71"
+          }
+        },
+        {
+          "client_id": "184152720677-vnls37vcq0ir3e3qfeiefv9dnde9eebp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl_esD1XTUvaJq_cglUiv7m5MXP1qW9OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184152720677-vnls37vcq0ir3e3qfeiefv9dnde9eebp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
